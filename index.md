@@ -1,6 +1,5 @@
 ## History Primer
 Email:  HistoryPrimer@gmail.com
 
-## About History Primer
-
-## 
+[World History Primer]
+[US History Primer]
